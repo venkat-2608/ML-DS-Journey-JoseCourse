@@ -51,9 +51,3 @@ These capstone projects help you:
 - Build projects suitable for a **GitHub portfolio or LinkedIn showcase**
 
 ---
-
-## 📌 Next Topic
-
-[→ Core Machine Learning Algorithms & Scikit-Learn](../09_Machine_Learning_Fundamentals/)
-
----
